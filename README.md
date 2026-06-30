@@ -15,7 +15,7 @@ A modern, responsive airline ticket booking platform built with React and Tailwi
 
 The platform uses a professional airline color scheme:
 
-- **Primary Dark**: #003d52 (Navy Blue)
+- **Primary lite**: #003d52 (Navy Blue)
 - **Primary Blue**: #1a73b9 (Sky Blue)
 - **Accent Gold**: #ffd769 (Gold)
 - **Accent Brown**: #d4a574 (Warm Brown)
