@@ -1,17 +1,1 @@
-import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import SearchForm from './components/SearchForm';
-import './styles/globals.css';
-
-function App() {
-  return (
-    <div className="min-h-screen bg-neutral-50">
-      <Header />
-      <Hero />
-      <SearchForm />
-    </div>
-  );
-}
-
-export default App;
+import React from 'react';\nimport Header from './components/Header';\nimport Hero from './components/Hero';\nimport SearchForm from './components/SearchForm';\nimport Features from './components/Features';\nimport PopularDestinations from './components/PopularDestinations';\nimport Stats from './components/Stats';\nimport Footer from './components/Footer';\nimport './styles/globals.css';\n\nfunction App() {\n  return (\n    <div className=\"min-h-screen bg-neutral-50\">\n      <Header />\n      <Hero />\n      <SearchForm />\n      <Features />\n      <PopularDestinations />\n      <Stats />\n      <Footer />\n    </div>\n  );\n}\n\nexport default App;\n
